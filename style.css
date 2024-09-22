@@ -181,6 +181,10 @@ section {
   font-size: clamp(0.4rem, 0.2rem + 9vw, 1rem);
   margin: 10px 0;
 }
+.content p a {
+  text-decoration: none;
+  color: #5a7fd1;
+}
 
 .social-links i {
   display: inline-flex;
